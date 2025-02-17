@@ -1,0 +1,4 @@
+repository "Sailing Simulator - Normal Renderer@thearthman@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
